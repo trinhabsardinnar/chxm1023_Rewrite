@@ -9,7 +9,7 @@
 **************************************
 
 [rewrite_local]
-^https?:\/\/api\.995120\.cn\/mini\/api\/appleplus\/ url script-response-body https://raw.githubusercontent.com/chxm1023/Rewrite/main/xinzang.js
+^https?:\/\/api\.995120\.cn\/mini\/api\/appleplus\/ url script-response-body https://raw.githubusercontent.com/trinhabsardinnar/chxm1023_Rewrite/refs/heads/main/xinzang.js
 
 [mitm]
 hostname = api.995120.cn
